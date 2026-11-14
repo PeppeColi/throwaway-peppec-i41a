@@ -1,7 +1,0 @@
-name: wake
-on: push
-jobs:
-  w:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo hi
